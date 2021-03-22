@@ -1,0 +1,17 @@
+pinned data üzerindeki stars ???
+
+aod data üzerindeki starss ???
+
+json format ???
+
+her bir thread IP farklımı ???
+
+yan sekmedeki gönderilemez durumu ???
+
+new and used ???
+
+
+
+#########################3 yapılacaklar#################################
+# pinned.py üzerinde new url function
+# brand değişken check
