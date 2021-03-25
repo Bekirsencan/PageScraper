@@ -1,7 +1,6 @@
 import proxy as proxy_class
 import page as page_class
 
-
 scraper = None
 data_list = []
 

@@ -6,20 +6,16 @@ import json
 from selenium import webdriver
 import aod as aod_class
 
-ratings = None
-seller = None
-
 
 def main(scraper: webdriver):
     wait = WebDriverWait(scraper, 30)
-    wait.until(ec.element_to_be_clickable((By.ID,""))).click()
-    get_pinned_seller(scraper)
-    get_pinned_price(scraper)
+    wait.until(ec.element_to_be_clickable((By.ID,"aod-pinned-offer-show-more-link"))).click()
+    data = scraper.find_element_by_id("aod-pinned-offer")
     json_data = {
-        "seller": seller,
-        "sender": get_pinned_sender(scraper),
-        "ratings": ratings,
-        "price": get_pinned_price(scraper)
+        "seller": get_pinned_seller(data),
+        "sender": get_pinned_sender(data),
+        "ratings": get_pinned_ratings(data),
+        "price": get_pinned_price(data)
     }
     print(json.dumps(json_data))
     aod_list = scraper.find_elements_by_id("aod-offer")
@@ -34,27 +30,25 @@ def check_existing(scraper: webdriver):
     return main(scraper)
 
 
-def get_pinned_seller(scraper: webdriver):
-    global ratings
-    global seller
-    var = scraper.find_element_by_xpath(
-        "/html/body/div[1]/span/span/span/div/div/div[2]/div/div[3]/div[1]/div[5]/div/div/div/div[2]").text.split()
-    ratings = var[1][1::]
-    seller = var[0]
+def get_pinned_seller(aod_element):
+    var = aod_element.find_element_by_id("aod-offer-soldBy")
+    return var.find_element_by_css_selector("a.a-size-small.a-link-normal").text
+
+def get_pinned_ratings(aod_element):
+    var = aod_element.find_element_by_id("seller-rating-count-{iter}").text
+    var_element = var.split()
+    return var_element[0][1::]
 
 
-def get_pinned_sender(scraper: webdriver):
-    return scraper.find_element_by_xpath(
-        "/html/body/div[1]/span/span/span/div/div/div[2]/div/div[3]/div[1]/div[4]/div/div/div/div[2]/span").text
+def get_pinned_sender(aod_element):
+    data = aod_element.find_element_by_css_selector("#aod-offer-shipsFrom")
+    return data.find_element_by_css_selector("span.a-size-small.a-color-base").text
 
 
-def get_pinned_price(scraper: webdriver):
-    var = scraper.find_element_by_xpath("//div[@id='pinned-offer-top-id']/div[1]").text
-    price_text = var.split()
+def get_pinned_price(aod_element):
+    price_text = aod_element.find_element_by_css_selector("[data-a-size]").text.split()
     price_float = float(price_text[0][1::] + "." + price_text[1])
-    fee = scraper.find_element_by_xpath(
-        "/html/body/div[1]/span/span/span/div/div/div[2]/div/div[1]/div/div[2]/div[3]/div/div[1]/div/div[3]/span/span").text
-    fee_text = fee.split()
+    fee_text = aod_element.find_element_by_css_selector("span.a-color-secondary.a-size-base").text.split()
     fee_float = float(fee_text[1][1::])
-    all_price = fee_float + price_float
-    return round(all_price, 2)
+    total_price = fee_float + price_float
+    return round(total_price, 2)

@@ -13,7 +13,7 @@ def main(data):
 def get_aod_price(data):
     var = data.find_element_by_css_selector("span.a-price").text.split()
     float_var = float(var[0][1::] + "." + var[1])
-    fee = data.find_element_by_xpath("div[2]/div/div/div[2]/div/div/div[1]/span/span").text.split()
+    fee = data.find_element_by_css_selector("span.a-color-secondary.a-size-base").text.split()
     float_fee = float(fee[1][1::])
     return round(float_var + float_fee, 2)
 
@@ -23,7 +23,7 @@ def get_aod_sender(data):
     return var[2]
 
 def get_aod_seller(data):
-    return data.find_element_by_xpath("div[5]/div/div/div[2]/a").text
+    return data.find_element_by_css_selector("a.a-size-small.a-link-normal").text
 
 def get_aod_ratings(data):
     var = data.find_element_by_id("seller-rating-count-{iter}").text.split()

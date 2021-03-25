@@ -5917,3 +5917,814 @@ JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._
 JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC|11Y+5x+kkTL.js,51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI, line 349: SyntaxError: FontFaceSet.load: Invalid font shorthand
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
 1616248296973	Marionette	INFO	Stopped listening on port 43445
+1616492690504	geckodriver	INFO	Listening on 127.0.0.1:47609
+1616492691419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2c3gME"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616492696855	Marionette	INFO	Listening on port 41501
+1616492696960	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616492741334	Marionette	INFO	Stopped listening on port 41501
+1616492756760	geckodriver	INFO	Listening on 127.0.0.1:52509
+1616492756770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo2Mm1r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616492761590	Marionette	INFO	Listening on port 45809
+1616492761703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616492787347	Marionette	INFO	Stopped listening on port 45809
+1616492832709	geckodriver	INFO	Listening on 127.0.0.1:47423
+1616492832732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJqf7FF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616492837758	Marionette	INFO	Listening on port 46349
+1616492837865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81QZUp7rm4L.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616492904860	Marionette	INFO	Stopped listening on port 46349
+1616511145260	geckodriver	INFO	Listening on 127.0.0.1:54887
+1616511146150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekSqXUJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616511152842	Marionette	INFO	Listening on port 45879
+1616511153123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616511178715	Marionette	INFO	Stopped listening on port 45879
+1616511503624	geckodriver	INFO	Listening on 127.0.0.1:37547
+1616511503632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileweLPKt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616511508356	Marionette	INFO	Listening on port 46877
+1616511508466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616511508485	geckodriver	INFO	Listening on 127.0.0.1:42317
+1616511509517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejKuM2R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616511514371	Marionette	INFO	Listening on port 45473
+1616511514455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616511523007	Marionette	INFO	Stopped listening on port 45473
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616511559215	Marionette	INFO	Stopped listening on port 46877
+1616680209817	geckodriver	INFO	Listening on 127.0.0.1:60105
+1616680209817	geckodriver	INFO	Listening on 127.0.0.1:54227
+1616680210657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKMWmjz"
+1616680210657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledOY0so"
+1616680263018	geckodriver	INFO	Listening on 127.0.0.1:54767
+1616680263020	geckodriver	INFO	Listening on 127.0.0.1:39329
+1616680263043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0QuvdG"
+1616680263043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUVehEQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616680276130	Marionette	INFO	Listening on port 37933
+1616680276215	Marionette	INFO	Listening on port 44343
+1616680277012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616680277108	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616680329505	Marionette	INFO	Stopped listening on port 37933
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616680331632	Marionette	INFO	Stopped listening on port 44343
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616683193430	geckodriver	INFO	Listening on 127.0.0.1:48629
+1616683193447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemT3tK1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683198247	Marionette	INFO	Listening on port 43311
+1616683198278	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616683252148	geckodriver	INFO	Listening on 127.0.0.1:60107
+1616683252154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDtUToB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683256763	Marionette	INFO	Listening on port 39755
+1616683256790	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616683271039	geckodriver	INFO	Listening on 127.0.0.1:34341
+1616683271046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMEvwNU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683275894	Marionette	INFO	Listening on port 43547
+1616683275979	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+console.warn: "fetching stylesheets failed" (new Error("Connection closed, pending request to server0.conn0.child3/styleSheetsActor4, type getStyleSheets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:101:48\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7761:36\nWindowIsClosing@chrome://browser/content/browser.js:7778:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3013:7\noncommand@chrome://browser/content/browser.xhtml:1:1\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: (new Error("Can not send request 'watchResources' because front 'watcher' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616683326388	Marionette	INFO	Stopped listening on port 43547
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616683333630	geckodriver	INFO	Listening on 127.0.0.1:48363
+1616683333638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb6J9Ed"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683338769	Marionette	INFO	Listening on port 41105
+1616683338871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616683379760	Marionette	INFO	Stopped listening on port 41105
+1616683508172	geckodriver	INFO	Listening on 127.0.0.1:59515
+1616683508179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4tHdfP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683512783	Marionette	INFO	Listening on port 42695
+1616683512814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(false)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(false)'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616683572496	Marionette	INFO	Stopped listening on port 42695
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616683602274	geckodriver	INFO	Listening on 127.0.0.1:57607
+1616683602281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIa6HvN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683608253	Marionette	INFO	Listening on port 45595
+1616683608317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616683640535	Marionette	INFO	Stopped listening on port 45595
+1616683640952	geckodriver	INFO	Listening on 127.0.0.1:54467
+1616683640959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb8iDq3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683645628	Marionette	INFO	Listening on port 39573
+1616683645695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616683688777	Marionette	INFO	Stopped listening on port 39573
+1616683700124	geckodriver	INFO	Listening on 127.0.0.1:48933
+1616683700131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefEBXlu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616683704629	Marionette	INFO	Listening on port 42885
+1616683704662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616683745316	Marionette	INFO	Stopped listening on port 42885
+1616684156356	geckodriver	INFO	Listening on 127.0.0.1:47359
+1616684156363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoULOUy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684160877	Marionette	INFO	Listening on port 45583
+1616684160993	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+1616684199118	geckodriver	INFO	Listening on 127.0.0.1:43629
+1616684199128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLfcwu2"
+JavaScript error: https://www.amazon.com/Color-Blindness-Glasses-Men-Lightweight/dp/B08VHJ1DS3/ref=sr_1_455999979_sspa?dchild=1&qid=1616596437&rnid=172532&s=electronics&sr=1-455999979-spons&smid=A2WECJ3Q0NDXGC&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFpaQlA0NzZQTU9HJmVuY3J5cHRlZElkPUEwMDUzMjI4TVkyTU1RMzhPTFUxJmVuY3J5cHRlZEFkSWQ9QTAxNjg4NzczNlJRWDA3OE41SkozJndpZGdldE5hbWU9c3BfbXRmX2Jyb3dzZSZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1, line 87: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616684202965	Marionette	INFO	Stopped listening on port 45583
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684205932	Marionette	INFO	Listening on port 40779
+1616684205969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/G/01/csminstrumentation/rd-script-6d68177fa6061598e9509dc4b5bdd08d.js, line 1: TypeError: a.ue.log is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616684221955	geckodriver	INFO	Listening on 127.0.0.1:50799
+1616684221962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9YlIBd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684226447	Marionette	INFO	Listening on port 37181
+1616684226498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616684259650	Marionette	INFO	Stopped listening on port 37181
+1616684439182	geckodriver	INFO	Listening on 127.0.0.1:59043
+1616684439189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegdUcJH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684443971	Marionette	INFO	Listening on port 33483
+1616684444023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616684477423	geckodriver	INFO	Listening on 127.0.0.1:37131
+1616684477429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegSc7q5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684482041	Marionette	INFO	Listening on port 33409
+1616684482158	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616684511862	Marionette	INFO	Stopped listening on port 33409
+1616684518064	geckodriver	INFO	Listening on 127.0.0.1:46315
+1616684518072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileObFEGx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616684522810	Marionette	INFO	Listening on port 32791
+1616684522903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616684556181	Marionette	INFO	Stopped listening on port 32791
+1616685023181	geckodriver	INFO	Listening on 127.0.0.1:44079
+1616685023188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZPolzH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616685027757	Marionette	INFO	Listening on port 45937
+1616685027818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616685067923	Marionette	INFO	Stopped listening on port 45937
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616685207361	geckodriver	INFO	Listening on 127.0.0.1:36667
+1616685207368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileygh2hV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616685213233	Marionette	INFO	Listening on port 40393
+1616685213303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616685297745	Marionette	INFO	Stopped listening on port 40393
+1616685350536	geckodriver	INFO	Listening on 127.0.0.1:54873
+1616685350542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilescfU4d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616685355348	Marionette	INFO	Listening on port 46223
+1616685355374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616685436271	Marionette	INFO	Stopped listening on port 46223
+1616685458192	geckodriver	INFO	Listening on 127.0.0.1:50125
+1616685458199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileODZWRv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616685462896	Marionette	INFO	Listening on port 33109
+1616685462935	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616685516926	Marionette	INFO	Stopped listening on port 33109
+1616686162701	geckodriver	INFO	Listening on 127.0.0.1:36325
+1616686162715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJA64VN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616686167300	Marionette	INFO	Listening on port 46183
+1616686167347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616686232108	Marionette	INFO	Stopped listening on port 46183
+1616686328942	geckodriver	INFO	Listening on 127.0.0.1:42061
+1616686328961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevnFFbU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616686333570	Marionette	INFO	Listening on port 39147
+1616686333598	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616686380281	Marionette	INFO	Stopped listening on port 39147
+1616686380850	geckodriver	INFO	Listening on 127.0.0.1:57733
+1616686380858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh51ymx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616686385266	Marionette	INFO	Listening on port 35029
+1616686385291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616686428179	geckodriver	INFO	Listening on 127.0.0.1:37859
+1616686428190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAOJvdK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616686432524	Marionette	INFO	Listening on port 34545
+1616686432621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616687104539	geckodriver	INFO	Listening on 127.0.0.1:40085
+1616687104546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo1k6Ff"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616687108972	Marionette	INFO	Listening on port 41381
+1616687109078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616687156194	Marionette	INFO	Stopped listening on port 41381
+1616687609523	geckodriver	INFO	Listening on 127.0.0.1:37701
+1616687609533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7nsTHh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616687614453	Marionette	INFO	Listening on port 45323
+1616687614566	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1616687699103	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616687721962	geckodriver	INFO	Listening on 127.0.0.1:60681
+1616687721971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem0TtLh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616687726503	Marionette	INFO	Listening on port 45929
+1616687726601	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616687789848	Marionette	INFO	Stopped listening on port 45929
+1616687799572	geckodriver	INFO	Listening on 127.0.0.1:37303
+1616687799580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefP2vvp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616687804212	Marionette	INFO	Listening on port 42675
+1616687804313	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616687853283	geckodriver	INFO	Listening on 127.0.0.1:43015
+1616687853290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelD29nw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616687857790	Marionette	INFO	Listening on port 44231
+1616687857821	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616700353903	geckodriver	INFO	Listening on 127.0.0.1:35401
+1616700354735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile32zOFZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616700361096	Marionette	INFO	Listening on port 38013
+1616700361560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1616700400707	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:173:19
+ajax@https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:167:155
+@https://d1nruqhae353qc.cloudfront.net/primesignup/widget.js:196:15
+n@https://www.amazon.com/Color-Blindness-Glasses-Men-Lightweight/dp/B08VHJ1DS3/ref=sr_1_455999979_sspa?dchild=1&qid=1616596437&rnid=172532&s=electronics&sr=1-455999979-spons&psc=1&smid=A2WECJ3Q0NDXGC&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFpaQlA0NzZQTU9HJmVuY3J5cHRlZElkPUEwMDUzMjI4TVkyTU1RMzhPTFUxJmVuY3J5cHRlZEFkSWQ9QTAxNjg4NzczNlJRWDA3OE41SkozJndpZGdldE5hbWU9c3BfbXRmX2Jyb3dzZSZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=:83:74
+W/</<@https://www.amazon.com/Color-Blindness-Glasses-Men-Lightweight/dp/B08VHJ1DS3/ref=sr_1_455999979_sspa?dchild=1&qid=1616596437&rnid=172532&s=electronics&sr=1-455999979-spons&psc=1&smid=A2WECJ3Q0NDXGC&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFpaQlA0NzZQTU9HJmVuY3J5cHRlZElkPUEwMDUzMjI4TVkyTU1RMzhPTFUxJmVuY3J5cHRlZEFkSWQ9QTAxNjg4NzczNlJRWDA3OE41SkozJndpZGdldE5hbWU9c3BfbXRmX2Jyb3dzZSZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=:84:391
+ca@https://www.amazon.com/Color-Blindness-Glasses-Men-Lightweight/dp/B08VHJ1DS3/ref=sr_1_455999979_sspa?dchild=1&qid=1616596437&rnid=172532&s=electronics&sr=1-455999979-spons&psc=1&smid=A2WECJ3Q0NDXGC&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTFpaQlA0NzZQTU9HJmVuY3J5cHRlZElkPUEwMDUzMjI4TVkyTU1RMzhPTFUxJmVuY3J5cHRlZEFkSWQ9QTAxNjg4NzczNlJRWDA3OE41SkozJndpZGdldE5hbWU9c3BfbXRmX2Jyb3dzZSZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=:87:524
+1616700411709	geckodriver	INFO	Listening on 127.0.0.1:38615
+1616700411727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyBaQ7p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1616700416481	Marionette	INFO	Listening on port 40863
+1616700416559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616700417090	Marionette	INFO	Stopped listening on port 38013
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616700477555	geckodriver	INFO	Listening on 127.0.0.1:44183
+1616700477567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoHmd3J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616700482046	Marionette	INFO	Listening on port 43329
+1616700482102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616700546784	Marionette	INFO	Stopped listening on port 43329
+1616700863556	geckodriver	INFO	Listening on 127.0.0.1:32929
+1616700863593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAaOGVi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616700867788	Marionette	INFO	Listening on port 39983
+1616700867824	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616700944392	Marionette	INFO	Stopped listening on port 39983
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616701046042	geckodriver	INFO	Listening on 127.0.0.1:47023
+1616701046052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile48Jurl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616701050530	Marionette	INFO	Listening on port 41953
+1616701050585	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616701269662	Marionette	INFO	Stopped listening on port 41953
+1616701272581	geckodriver	INFO	Listening on 127.0.0.1:55509
+1616701272591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile88nbyD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616701277118	Marionette	INFO	Listening on port 34209
+1616701277223	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616701454243	Marionette	INFO	Stopped listening on port 34209
+1616701456414	geckodriver	INFO	Listening on 127.0.0.1:49559
+1616701456425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDuEhaF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616701460931	Marionette	INFO	Listening on port 37133
+1616701460956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616703432724	Marionette	INFO	Stopped listening on port 37133
+1616703492740	geckodriver	INFO	Listening on 127.0.0.1:45949
+1616703492749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5TXTil"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616703497798	Marionette	INFO	Listening on port 39109
+1616703497884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616703589668	Marionette	INFO	Stopped listening on port 39109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616703619890	geckodriver	INFO	Listening on 127.0.0.1:58925
+1616703619900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledo7xS2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616703624398	Marionette	INFO	Listening on port 42559
+1616703624433	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616703740478	Marionette	INFO	Stopped listening on port 42559
+1616703742815	geckodriver	INFO	Listening on 127.0.0.1:39773
+1616703742824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKkmPzi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616703747417	Marionette	INFO	Listening on port 34605
+1616703747461	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616703813199	Marionette	INFO	Stopped listening on port 34605
+1616703814235	geckodriver	INFO	Listening on 127.0.0.1:47605
+1616703814245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyVN9jh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616703818701	Marionette	INFO	Listening on port 46179
+1616703818773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616704213665	Marionette	INFO	Stopped listening on port 46179
+1616704807787	geckodriver	INFO	Listening on 127.0.0.1:59045
+1616704807793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileveKBfI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616704812288	Marionette	INFO	Listening on port 39439
+1616704812324	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+1616704830976	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:173:19
+ajax@https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:167:155
+@https://d1nruqhae353qc.cloudfront.net/primesignup/widget.js?_=1616704825208:196:15
+n@https://www.amazon.com/CASEKOO-iPhone-12-Pro-Max/dp/B08CXNS295/ref=sr_1_2?dchild=1&keywords=B08CXNS295&qid=1616704276&s=audio-video-accessories&sr=1-2:87:74
+W/</<@https://www.amazon.com/CASEKOO-iPhone-12-Pro-Max/dp/B08CXNS295/ref=sr_1_2?dchild=1&keywords=B08CXNS295&qid=1616704276&s=audio-video-accessories&sr=1-2:88:391
+ca@https://www.amazon.com/CASEKOO-iPhone-12-Pro-Max/dp/B08CXNS295/ref=sr_1_2?dchild=1&keywords=B08CXNS295&qid=1616704276&s=audio-video-accessories&sr=1-2:91:524
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+1616704865223	geckodriver	INFO	Listening on 127.0.0.1:40347
+1616704865234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile29eDr2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616704871558	Marionette	INFO	Listening on port 33685
+1616704871669	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+1616704885991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:173:19
+ajax@https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:167:155
+@https://d1nruqhae353qc.cloudfront.net/primesignup/widget.js?_=1616704879649:196:15
+n@https://www.amazon.com/CASEKOO-iPhone-12-Pro-Max/dp/B08CXNS295/ref=sr_1_2?dchild=1&keywords=B08CXNS295&qid=1616704276&s=audio-video-accessories&sr=1-2:85:74
+W/</<@https://www.amazon.com/CASEKOO-iPhone-12-Pro-Max/dp/B08CXNS295/ref=sr_1_2?dchild=1&keywords=B08CXNS295&qid=1616704276&s=audio-video-accessories&sr=1-2:86:391
+ca@https://www.amazon.com/CASEKOO-iPhone-12-Pro-Max/dp/B08CXNS295/ref=sr_1_2?dchild=1&keywords=B08CXNS295&qid=1616704276&s=audio-video-accessories&sr=1-2:89:524
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616704907975	geckodriver	INFO	Listening on 127.0.0.1:50545
+1616704908039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3WAMsw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616704913256	Marionette	INFO	Listening on port 43495
+1616704913377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616704922020	Marionette	INFO	Stopped listening on port 39439
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1616705019107	geckodriver	INFO	Listening on 127.0.0.1:52929
+1616705019116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledDwvLt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616705023392	Marionette	INFO	Listening on port 42971
+1616705023450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616705137834	Marionette	INFO	Stopped listening on port 42971
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616705515585	geckodriver	INFO	Listening on 127.0.0.1:56399
+1616705515592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyahme3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616705520205	Marionette	INFO	Listening on port 36787
+1616705520324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616705589312	Marionette	INFO	Stopped listening on port 36787
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616705628363	geckodriver	INFO	Listening on 127.0.0.1:42121
+1616705628370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles0cAGP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616705633031	Marionette	INFO	Listening on port 35675
+1616705633102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+1616705827177	geckodriver	INFO	Listening on 127.0.0.1:34999
+1616705827184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejJ5lO4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616705831644	Marionette	INFO	Listening on port 45363
+1616705831738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616705831871	Marionette	INFO	Stopped listening on port 35675
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616706185417	Marionette	INFO	Stopped listening on port 45363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616706239756	geckodriver	INFO	Listening on 127.0.0.1:32813
+1616706239763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile82HFZx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616706244497	Marionette	INFO	Listening on port 39153
+1616706244596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,31KrK+dcMcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Detail.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616706309177	Marionette	INFO	Stopped listening on port 39153
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

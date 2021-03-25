@@ -2,14 +2,16 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
+import time
 import json
 import twister as twister_class
 import webdriver as webdriver_class
 import pinned as pinned_class
-
+import time
 
 def get_page(page_scraper: webdriver, url):
     page_scraper.get(url)
+    time.sleep(10)
     if webdriver_class.check_target(page_scraper):
         return twister_class.check_twister(page_scraper)
     else:
@@ -18,6 +20,7 @@ def get_page(page_scraper: webdriver, url):
 
 
 def get_page_data(page_scraper: webdriver):
+    time.sleep(10)
     json_data = {
         "title": get_title(page_scraper),
         "brand": get_brand(page_scraper),
@@ -48,8 +51,11 @@ def get_title(page_scraper: webdriver):
 
 
 def get_brand(page_scraper: webdriver):
-    return page_scraper.find_element_by_css_selector("table.a-normal.a-spacing-micro").find_element_by_xpath(
-        "tbody/tr[2]/td[2]")
+    var = page_scraper.find_element_by_id('bylineInfo').text.split()
+    if len(var) == 4:
+        return var[2]
+    else:
+        return var[1]
 
 
 def get_stars(page_scraper: webdriver):

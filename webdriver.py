@@ -11,6 +11,7 @@ def change_target_location(page_scraper: webdriver):
     page_scraper.find_element_by_css_selector("ul.a-nostyle.a-list-link").find_element_by_xpath(
         f"li[contains(.,'{'Turkey'}')]").click()
     wait_element.until(ec.element_to_be_clickable((By.CSS_SELECTOR, "button[name='glowDoneButton']"))).click()
+    page_scraper.refresh()
 
 
 def check_target(page_scraper: webdriver):

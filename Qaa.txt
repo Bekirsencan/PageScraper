@@ -10,6 +10,14 @@ yan sekmedeki gönderilemez durumu ???
 
 new and used ???
 
+ürün gönderimi yoksa ???
+
+response ??
+
+thread singleton ilişkisi
+
+multiple proxy port ???
+
 
 
 #########################3 yapılacaklar#################################

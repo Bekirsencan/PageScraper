@@ -709,3 +709,558 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1616587007849	geckodriver	INFO	Listening on 127.0.0.1:55389
+1616587007929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCBTP24"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616587017037	Marionette	INFO	Listening on port 35465
+1616587017103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616587052628	Marionette	INFO	Stopped listening on port 35465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616587072380	geckodriver	INFO	Listening on 127.0.0.1:47649
+1616587072391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesyFsP9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616587077383	Marionette	INFO	Listening on port 36549
+1616587077426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616587131073	Marionette	INFO	Stopped listening on port 36549
+1616587278689	geckodriver	INFO	Listening on 127.0.0.1:52233
+1616587278698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8GnrL0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616587283433	Marionette	INFO	Listening on port 42645
+1616587283536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616587388540	geckodriver	INFO	Listening on 127.0.0.1:51271
+1616587388551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtzZ0L"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616587391276	Marionette	INFO	Stopped listening on port 42645
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616587393506	Marionette	INFO	Listening on port 38401
+1616587393587	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616588109471	geckodriver	INFO	Listening on 127.0.0.1:52421
+1616588109481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAhXE5K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616588114137	Marionette	INFO	Listening on port 39389
+1616588114216	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616588152316	geckodriver	INFO	Listening on 127.0.0.1:48967
+1616588152326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew33VIX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616588156888	Marionette	INFO	Listening on port 35897
+1616588156964	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616588348212	geckodriver	INFO	Listening on 127.0.0.1:34281
+1616588348222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenbtK4V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616588352904	Marionette	INFO	Listening on port 45427
+1616588352961	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "The supplied node is incorrect or has an incorrect ancestor for this operation."
+console.error: "getUsedFontFaces@resource://devtools/server/actors/page-style.js:378:11\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (InvalidNodeTypeError): The supplied node is incorrect or has an incorrect ancestor for this operation. from: server0.conn0.child3/pagestyle25 (resource://devtools/server/actors/page-style.js:378:0)", "resource://devtools/shared/protocol/Front.js", 361))
+JavaScript error: resource://devtools/client/inspector/markup/markup.js, line 1315: TypeError: parent is null
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "The supplied node is incorrect or has an incorrect ancestor for this operation."
+console.error: "getUsedFontFaces@resource://devtools/server/actors/page-style.js:378:11\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (InvalidNodeTypeError): The supplied node is incorrect or has an incorrect ancestor for this operation. from: server0.conn0.child3/pagestyle25 (resource://devtools/server/actors/page-style.js:378:0)", "resource://devtools/shared/protocol/Front.js", 361))
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616588751473	geckodriver	INFO	Listening on 127.0.0.1:52553
+1616588751483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFrrh3P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616588755855	Marionette	INFO	Listening on port 34465
+1616588755916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC|11Y+5x+kkTL.js,51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI, line 349: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC|11Y+5x+kkTL.js,51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI, line 349: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC|11Y+5x+kkTL.js,51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI, line 349: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC|11Y+5x+kkTL.js,51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,015c-6CIP9L.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI, line 349: SyntaxError: FontFaceSet.load: Invalid font shorthand
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616588857009	geckodriver	INFO	Listening on 127.0.0.1:53119
+1616588857019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo0kcAd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616588861580	Marionette	INFO	Listening on port 42993
+1616588861651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Search.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Search.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Search.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Search.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1616588882039	geckodriver	INFO	Listening on 127.0.0.1:50753
+1616588882048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesjM9Sa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616588886580	Marionette	INFO	Listening on port 34385
+1616588886680	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616589203269	geckodriver	INFO	Listening on 127.0.0.1:58441
+1616589203356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQe53p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616589211416	Marionette	INFO	Listening on port 46659
+1616589211698	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616592245662	geckodriver	INFO	Listening on 127.0.0.1:48505
+1616592245673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewARhbP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592250103	Marionette	INFO	Listening on port 36641
+1616592250208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616592297821	geckodriver	INFO	Listening on 127.0.0.1:57875
+1616592297832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQfl01J"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592300392	Marionette	INFO	Stopped listening on port 36641
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592302649	Marionette	INFO	Listening on port 37293
+1616592302770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592330247	Marionette	INFO	Stopped listening on port 37293
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616592347617	geckodriver	INFO	Listening on 127.0.0.1:57675
+1616592347627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesWP9U7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592352363	Marionette	INFO	Listening on port 43541
+1616592352460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592374413	Marionette	INFO	Stopped listening on port 43541
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616592397010	geckodriver	INFO	Listening on 127.0.0.1:37929
+1616592397021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYvh6ff"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592401661	Marionette	INFO	Listening on port 36349
+1616592401752	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1616592513434	geckodriver	INFO	Listening on 127.0.0.1:51571
+1616592513441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGdIs1x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592517935	Marionette	INFO	Listening on port 46565
+1616592517976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+1616592573954	geckodriver	INFO	Listening on 127.0.0.1:51359
+1616592573964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB7rnkM"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592576310	Marionette	INFO	Stopped listening on port 46565
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592579302	Marionette	INFO	Listening on port 37639
+1616592579399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616592641764	geckodriver	INFO	Listening on 127.0.0.1:56957
+1616592641774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS32kq4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592646314	Marionette	INFO	Listening on port 38643
+1616592646403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592740619	Marionette	INFO	Stopped listening on port 38643
+1616592754915	geckodriver	INFO	Listening on 127.0.0.1:51739
+1616592754922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4uZVWR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592759754	Marionette	INFO	Listening on port 45471
+1616592759860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592804225	Marionette	INFO	Stopped listening on port 45471
+1616592809799	geckodriver	INFO	Listening on 127.0.0.1:47361
+1616592809806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoHZLze"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592814736	Marionette	INFO	Listening on port 34739
+1616592814842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616592887811	Marionette	INFO	Stopped listening on port 34739
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616592891929	geckodriver	INFO	Listening on 127.0.0.1:60023
+1616592891939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVZo7Nw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592896399	Marionette	INFO	Listening on port 39745
+1616592896472	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616592925147	geckodriver	INFO	Listening on 127.0.0.1:47999
+1616592925157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0wkAk2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616592929694	Marionette	INFO	Listening on port 43397
+1616592929793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.xhtml, line 1: TypeError: gContextMenu is null
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616593714206	Marionette	INFO	Stopped listening on port 43397
+1616593722833	geckodriver	INFO	Listening on 127.0.0.1:46521
+1616593722839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehG7jK4"
+1616593725362	geckodriver	INFO	Listening on 127.0.0.1:37515
+1616593725372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekDwPQM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616593731424	Marionette	INFO	Listening on port 38389
+1616593731505	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616593770702	geckodriver	INFO	Listening on 127.0.0.1:33489
+1616593770712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ofvKB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616593775447	Marionette	INFO	Listening on port 34279
+1616593775543	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616593824911	geckodriver	INFO	Listening on 127.0.0.1:55295
+1616593824920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQg154f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616593829146	Marionette	INFO	Listening on port 38283
+1616593829249	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616594071132	geckodriver	INFO	Listening on 127.0.0.1:52479
+1616594071163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCtLI2m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616594075900	Marionette	INFO	Listening on port 40753
+1616594075995	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616594133112	geckodriver	INFO	Listening on 127.0.0.1:41239
+1616594133121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehKuOGY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616594137683	Marionette	INFO	Listening on port 40843
+1616594137751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2854: TypeError: event.target.closest is not a function
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 361))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616594412542	geckodriver	INFO	Listening on 127.0.0.1:41515
+1616594412552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepGHobX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616594417160	Marionette	INFO	Listening on port 41923
+1616594417195	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616594450312	geckodriver	INFO	Listening on 127.0.0.1:36551
+1616594450321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOhQrk5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616594454852	Marionette	INFO	Listening on port 42681
+1616594454956	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616596479046	geckodriver	INFO	Listening on 127.0.0.1:47839
+1616596479053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLeV6IG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616596483706	Marionette	INFO	Listening on port 38753
+1616596483789	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,51gm4oPD2cL.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51bbIMIQQwL.js,3109-RXWZcL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Search.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616596669689	Marionette	INFO	Stopped listening on port 38753
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616599551624	geckodriver	INFO	Listening on 127.0.0.1:45209
+1616599551630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVyVA93"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616599556319	Marionette	INFO	Listening on port 35351
+1616599556363	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
