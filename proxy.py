@@ -22,6 +22,3 @@ def new_proxy(PROXY_HOST="127.0.0.1", PROXY_PORT=9050):
     profile.update_preferences()
     return webdriver.Firefox(options=options, firefox_profile=profile,
                              executable_path='/home/bekir/PycharmProjects/Scraper/geckodriver')
-
-
-

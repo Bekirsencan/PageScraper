@@ -1,25 +1,4 @@
-pinned data üzerindeki stars ???
 
-aod data üzerindeki starss ???
+30 port aç idle kalsın 10 port sürekli dönsün
 
-json format ???
-
-her bir thread IP farklımı ???
-
-yan sekmedeki gönderilemez durumu ???
-
-new and used ???
-
-ürün gönderimi yoksa ???
-
-response ??
-
-thread singleton ilişkisi
-
-multiple proxy port ???
-
-
-
-#########################3 yapılacaklar#################################
-# pinned.py üzerinde new url function
-# brand değişken check
+source_page 112.satır

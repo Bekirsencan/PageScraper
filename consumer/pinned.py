@@ -4,7 +4,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 import json
 from selenium import webdriver
-import aod as aod_class
+import consumer.aod as aod_class
 
 
 def main(scraper: webdriver):

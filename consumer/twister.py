@@ -1,9 +1,7 @@
 from selenium import webdriver
-from selenium.webdriver.support import expected_conditions as ec
-from selenium.webdriver.common.by import By
 from producer.producer import producer_class
 from selenium.common.exceptions import NoSuchElementException
-import page as page_class
+import consumer.page as page_class
 
 
 def check_twister(page_scraper: webdriver):

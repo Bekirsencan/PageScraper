@@ -1,12 +1,8 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
-from selenium.webdriver.common.by import By
-import time
 import json
-import twister as twister_class
+import consumer.twister as twister_class
 import webdriver as webdriver_class
-import pinned as pinned_class
+import consumer.pinned as pinned_class
 import time
 
 def get_page(page_scraper: webdriver, url):

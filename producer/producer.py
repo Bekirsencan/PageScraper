@@ -35,7 +35,9 @@ class producer_class:
             next_button.click()
             return self.check_target()
         else:
-            print("işlem bitti") ### check next page response for new_proxy()
+            for data in self.producer_list:                     ### check next page response for new_proxy()
+                print(data)
+
 
     def check_target(self): # target country #
         target_country = self.scraper.find_element_by_id("glow-ingress-line2")

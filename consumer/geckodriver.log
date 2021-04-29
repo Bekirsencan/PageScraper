@@ -786,3 +786,14 @@ JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERRO
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1616929278591	geckodriver	INFO	Listening on 127.0.0.1:34797
+1616929279483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaa91qT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616929289149	Marionette	INFO	Listening on port 38111
+1616929289485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&tbOQM7bq#page_type-Detail.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/01iEcpPcoKL._RC|01x4giTy+uL.js,01r9LpT6pbL.js,31Y-4KbEpTL.js,11yAqqXzKZL.js,81Uz7qzuCgL.js,01ELLYeIOkL.js_.js?AUIClients/Brila, line 107: Error: Cannot use create a virtual MediaSource for this video
+1616929347420	Marionette	INFO	Stopped listening on port 38111
