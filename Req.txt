@@ -1,0 +1,15 @@
+/etc/tor dosyasına {port numarası} dosya açıp /var/lib/tor dosyasını kopyala
+
+{port numarası} dosyası içerisine torrc file açıp
+ControlPort{port numarası+1}
+SocksPort{port numarası}
+HashedControlPassword 16:A29BE5E78F89C34C606665CBD111847D100347FC999EEE2AF820177449
+DataDirectory /etc/tor/{port numarası}/tor/torrc
+
+sudo tor -f /etc/tor/8010/tor/torrc.1 # açıp kaldığı sürece kullanılabilir
+
+
+
+
+# sudo systemctl # tor control
+# sudo netstat -tlnp # port check
