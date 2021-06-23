@@ -25,6 +25,7 @@ class data_queue(queue.Queue):
         if data not in self.queue:
             self.put(data)
             self.list.append(data)
+        print(len(self.queue))
 
     def add_data_to_list(self, data):
         if data not in self.list:
@@ -33,3 +34,4 @@ class data_queue(queue.Queue):
 
     def clear_list(self):
         self.list.clear()
+

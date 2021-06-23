@@ -3,8 +3,8 @@ from stem.control import Controller
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-def renew_ip():
-    with Controller.from_port(port=9051) as controller:
+def renew_ip(PORT):
+    with Controller.from_port(port=PORT) as controller:
         controller.authenticate("bekir")
         controller.signal(Signal.NEWNYM)
 

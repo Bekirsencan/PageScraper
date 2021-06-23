@@ -13,6 +13,13 @@ class request_data:
             request_data()
         return request_data.__instance__
 
+    def set_request_data(self, url, target_country, searched_country, start_page, end_page):
+        self._url = url
+        self._target_country = target_country
+        self._searched_country = searched_country
+        self._start_page = start_page
+        self._end_page = end_page
+
     @property
     def url(self):
         return self._url
@@ -32,24 +39,3 @@ class request_data:
     @property
     def end_page(self):
         return self._end_page
-
-    @target_country.setter
-    def target_country(self, target_country):
-        self._target_country = target_country
-
-    @searched_country.setter
-    def searched_country(self, searched_country):
-        self._searched_country = searched_country
-
-    @start_page.setter
-    def start_page(self, start_page):
-        self._start_page = start_page
-
-    @end_page.setter
-    def end_page(self, end_page):
-        self._end_page = end_page
-
-    @url.setter
-    def url(self, url):
-        self._url = url
-
