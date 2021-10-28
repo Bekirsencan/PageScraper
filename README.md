@@ -1,7 +1,7 @@
 # Page Scraper
 ## Created For Linux.
 
-Amazon page scraper. With this project we can search Amazon products informations such as asin code, title, seller, price vs. and write/read all info's. Used Selenium for the scraping tool.Geckodriver(mozilla) used for the optimal memory usage. Tor used for the IP changes for the blocked IP's. Works with thread so usable with multiple geckodriver instances.
+Amazon page scraper. This project provides search Amazon products informations such as asin code, title, seller, price etc. and write/read all info's. Used Selenium for the scraping tool.Geckodriver(mozilla) used for the optimal memory usage. Tor used for the IP changes for the blocked IP's. Works with thread so usable with multiple geckodriver instances.
 
 # How To Use
 - Download Tor.
